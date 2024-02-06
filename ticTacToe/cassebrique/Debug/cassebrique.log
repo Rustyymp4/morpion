@@ -1,0 +1,4 @@
+﻿  gameObject.cpp
+  main.cpp
+C:\Users\enzobertrand\source\repos\cassebrique\cassebrique\main.cpp(1,10): fatal  error C1083: Impossible d'ouvrir le fichier include : 'SFML/Graphics.hpp' : No such file or directory
+  Génération de code en cours...
