@@ -1,0 +1,18 @@
+﻿  mainClient.cpp
+C:\Users\enzobertrand\Desktop\Codee\tictactoeClient\mainClient.cpp(62,45): warning C4244: '=' : conversion de 'T' en 'float', perte possible de données
+          with
+          [
+              T=int
+          ]
+C:\Users\enzobertrand\Desktop\Codee\tictactoeClient\mainClient.cpp(63,45): warning C4244: '=' : conversion de 'T' en 'float', perte possible de données
+          with
+          [
+              T=int
+          ]
+C:\Users\enzobertrand\Desktop\Codee\tictactoeClient\mainClient.cpp(157,46): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\enzobertrand\Desktop\Codee\tictactoeClient\mainClient.cpp(157,38): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\enzobertrand\Desktop\Codee\tictactoeClient\mainClient.cpp(164,47): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\enzobertrand\Desktop\Codee\tictactoeClient\mainClient.cpp(164,39): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\enzobertrand\Desktop\Codee\tictactoeClient\mainClient.cpp(177,48): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\enzobertrand\Desktop\Codee\tictactoeClient\mainClient.cpp(177,40): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+  tictactoeClient.vcxproj -> C:\Users\enzobertrand\Desktop\Codee\ticTacToe\x64\Debug\tictactoeClient.exe
